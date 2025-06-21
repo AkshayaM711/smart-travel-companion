@@ -1,0 +1,19 @@
+timestamp,endpoint,city,message
+2025-06-21T19:12:54.833410,/weather,Bati Kot,
+2025-06-21T19:13:27.402289,/flight-details,MAA,to DEL
+2025-06-21T19:13:44.380921,/hotels,delhi,2025-06-28 to 2025-06-30
+2025-06-21T19:14:05.955771,/chat,,tell me about delhi
+2025-06-21T19:14:35.038730,/chat,,"tell me about New Delhi,India"
+2025-06-21T20:01:46.331077,/chat,,tell about india
+2025-06-21T20:02:15.889238,/hotels,delhi,2025-06-28 to 2025-06-29
+2025-06-21T20:02:40.334603,/hotels,delhi,2025-06-28 to 2025-06-29
+2025-06-21T20:02:44.548013,/hotels,delhi,2025-06-28 to 2025-06-29
+2025-06-21T20:02:48.539990,/hotels,delhi,2025-06-28 to 2025-06-29
+2025-06-21T20:03:04.003805,/flight-details,MAA,to DEL
+2025-06-21T20:03:26.735880,/flight-details,MAA,to DEL
+2025-06-21T20:03:26.960295,/flight-details,MAA,to DEL
+2025-06-21T20:03:27.098971,/flight-details,MAA,to DEL
+2025-06-21T20:03:29.451796,/flight-details,MAA,to DEL
+2025-06-21T20:03:32.430969,/flight-details,MAA,to DEL
+2025-06-21T20:03:34.489508,/weather,kolkata,
+2025-06-21T20:03:34.923525,/flight-details,MAA,to DEL
