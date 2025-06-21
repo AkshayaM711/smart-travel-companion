@@ -177,7 +177,8 @@ curl http://localhost:5000/iata-code?city=Chennai
 
 ### 📷 Architecture Diagram
 
-![Architecture](./assets/Smart_Travel_Companion_Archite.png)
+![image](https://github.com/user-attachments/assets/97b9193e-0690-40fb-b03e-d9d321e23e63)
+
 
 ---
 
